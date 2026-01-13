@@ -113,4 +113,4 @@ As visualizações permitiram identificar padrões claros de comportamento assoc
 
 ## 📌 Observações Finais
 
-Este projeto foi desenvolvido com foco em boas práticas de análise de dados, priorizando decisões metodológicas conscientes, clareza na comunicação dos resultados e conexão direta entre dados e estratégias de negócio.
+Este projeto foi desenvolvido com foco em boas práticas de análise de dados, através da metodologia da Alura e do Projeto ONE da Oracle, priorizando decisões metodológicas conscientes, clareza na comunicação dos resultados e conexão direta entre dados e estratégias de negócio.
