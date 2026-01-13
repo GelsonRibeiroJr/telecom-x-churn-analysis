@@ -104,13 +104,49 @@ As visualizações permitiram identificar padrões claros de comportamento assoc
 
 ---
 
-## 🚧 Status do Projeto
+📈 Principais Visualizações
+🔹 Distribuição do Churn
 
-✅ **Concluído – Análise Exploratória Finalizada**  
-📌 Projeto preparado para futuras etapas de **modelagem preditiva (Machine Learning)**.
+Identificação de uma taxa significativa de evasão
+
+🔹 Churn por Variáveis Categóricas
+
+Tipo de contrato
+
+Tipo de serviço de internet
+
+Método de pagamento
+
+Serviços adicionais contratados
+
+🔹 Variáveis Numéricas
+
+Valor Mensal: clientes que cancelam tendem a pagar valores mais altos
+
+Tempo de Contrato: clientes com menor tempo de contrato apresentam maior churn
+
+
+
+---
+
+## ▶️ Como Executar o Projeto
+
+Clone este repositório:
+
+git clone https://github.com/seu-usuario/telecom-x-churn-analysis.git
+
+Abra o notebook TelecomX_BR.ipynb no Google Colab ou em ambiente local com Jupyter Notebook.
+
+Execute as células sequencialmente para reproduzir toda a análise.
 
 ---
 
 ## 📌 Observações Finais
 
 Este projeto foi desenvolvido com foco em boas práticas de análise de dados, através da metodologia da Alura e do Projeto ONE da Oracle, priorizando decisões metodológicas conscientes, clareza na comunicação dos resultados e conexão direta entre dados e estratégias de negócio.
+
+---
+
+## 🚧 Status do Projeto
+
+✅ **Concluído – Análise Exploratória Finalizada** 
