@@ -104,27 +104,13 @@ As visualizações permitiram identificar padrões claros de comportamento assoc
 
 ---
 
-📈 Principais Visualizações
-🔹 Distribuição do Churn
+## 📈 Principais Visualizações
 
-Identificação de uma taxa significativa de evasão
+### Valor Mensal por Status de Churn
+![Valor Mensal por Churn](images/churn_valor_mensal.png)
 
-🔹 Churn por Variáveis Categóricas
-
-Tipo de contrato
-
-Tipo de serviço de internet
-
-Método de pagamento
-
-Serviços adicionais contratados
-
-🔹 Variáveis Numéricas
-
-Valor Mensal: clientes que cancelam tendem a pagar valores mais altos
-
-Tempo de Contrato: clientes com menor tempo de contrato apresentam maior churn
-
+### Tempo de Contrato por Status de Churn
+![Tempo de Contrato por Churn](images/churn_tempo_contrato.png)
 
 
 ---
